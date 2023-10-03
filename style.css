@@ -1,0 +1,181 @@
+
+body{
+    margin: 0;
+    background-color: #CCCCFF;
+}
+
+#div1{
+    padding-left: 10px;
+    padding-bottom: 4%;
+    margin-top: 7%;
+    margin-left: 39.8%;
+    margin-right: 39.1%;
+    direction: rtl;
+    background-color: #4C516D;
+    box-shadow: 5px 15px 20px 0px slategray;
+    border-width: thin;
+    border-style: solid;
+    border-color: slategray;
+}
+
+#spn1{
+    font-size: 22px;
+    font-weight: bold;
+    margin: 1%;
+    margin-top: 10%;
+}
+
+#div2{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.btn1{
+    cursor: pointer;
+    background-color: #72A0C1;
+    font-size: 26px;
+    font-weight: bold;
+    border: 0px;
+    padding-left: 2.08%;
+    padding-right: 2.08%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    color:  black;
+    text-align: center;
+    margin-top: 0.3%;
+    box-shadow: 5px 15px 20px 0px slategray;
+    border-width: thin;
+}
+
+#btndivi{
+    cursor: pointer;
+    background-color: #72A0C1;
+    font-size: 26px;
+    font-weight: bold;
+    border: 0px;
+    padding-left: 2.1%;
+    padding-right: 2.1%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    color:  black;
+    text-align: center;
+    box-shadow: 5px 15px 20px 0px slategray;
+    border-width: thin;
+}
+
+#btnmul{
+    cursor: pointer;
+    background-color: #72A0C1;
+    font-size: 26px;
+    font-weight: bold;
+    border: 0px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    color:  black;
+    text-align: center;
+    box-shadow: 5px 15px 20px 0px slategray;
+    border-width: thin;
+}
+
+#btnminus{
+    cursor: pointer;
+    background-color: #72A0C1;
+    font-size: 26px;
+    font-weight: bold;
+    border: 0px;
+    padding-left: 2.08%;
+    padding-right: 2.08%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    color:  black;
+    text-align: center;
+    box-shadow: 5px 15px 20px 0px slategray;
+    border-width: thin;
+}
+
+#btnadd{
+    cursor: pointer;
+    background-color: #72A0C1;
+    font-size: 26px;
+    font-weight: bold;
+    border: 0px;
+    padding-left: 1.83%;
+    padding-right: 1.83%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    color:  black;
+    text-align: center;
+    box-shadow: 5px 15px 20px 0px slategray;
+    border-width: thin;
+}
+
+#btnAC{
+    cursor: pointer;
+    background-color: #72A0C1;
+    font-size: 26px;
+    font-weight: bold;
+    border: 0px;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    color:  black;
+    text-align: center;
+    box-shadow: 5px 15px 20px 0px slategray;
+    border-width: thin;
+}
+
+#btnDEL{
+    cursor: pointer;
+    background-color: #72A0C1;
+    font-size: 26px;
+    font-weight: bold;
+    border: 0px;
+    padding-left: 0.65%;
+    padding-right: 0.65%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    color:  black;
+    text-align: center;
+    box-shadow: 5px 15px 20px 0px slategray;
+    border-width: thin;
+}
+
+#btndot{
+    cursor: pointer;
+    background-color: #72A0C1;
+    font-size: 26px;
+    font-weight: bold;
+    border: 0px;
+    padding-left: 2.34%;
+    padding-right: 2.34%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    color:  black;
+    text-align: center;
+    box-shadow: 5px 15px 20px 0px slategray;
+    border-width: thin;
+}
+
+#btnequal{
+    cursor: pointer;
+    background-color: #72A0C1;
+    font-size: 26px;
+    font-weight: bold;
+    border: 0px;
+    padding-left: 4.62%;
+    padding-right: 4.62%;
+    margin-top: 0.3%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    color:  black;
+    text-align: center;
+    box-shadow: 5px 15px 20px 0px slategray;
+    border-width: thin;
+}
+
+
+
